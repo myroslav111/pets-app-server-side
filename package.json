@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/VasylArtymovych/pets-house-server.git"
+    "url": "git+https://github.com/myroslav111/pets-app-server-side.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/VasylArtymovych/pets-house-server/issues"
+    "url": "https://github.com/myroslav111/pets-app-server-side.git/issues"
   },
-  "homepage": "https://github.com/VasylArtymovych/pets-house-server#readme",
+  "homepage": "https://github.com/myroslav111/pets-app-server-side.git#readme",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "chalk": "^4.1.0",
