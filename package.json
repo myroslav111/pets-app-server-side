@@ -15,9 +15,9 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/myroslav111/pets-app-server-side.git/issues"
+    "url": "https://github.com/myroslav111/pets-app-server-side/issues"
   },
-  "homepage": "https://github.com/myroslav111/pets-app-server-side.git#readme",
+  "homepage": "https://github.com/myroslav111/pets-app-server-side#readme",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "chalk": "^4.1.0",
